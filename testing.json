@@ -1,1 +1,25 @@
-{}
+{
+    "directory": "https://raw.githubusercontent.com/turgid-tributary/throwaway/main/testing.json",
+    "time": "2023-06-29T04:36:19Z",
+    "issuerInfo": [
+        {
+            "issuer": {
+                "iss": "https://docket.care/id",
+                "name": "State of Idaho",
+                "website": "https://healthandwelfare.idaho.gov/covid-19-vaccination"
+            },
+            "keys": [
+                {
+                    "kty": "EC",
+                    "use": "sig",
+                    "crv": "P-256",
+                    "kid": "TdjLfylyWGZ1e6crS5vwC51PP9sigU4f6OMAA6z8H1g",
+                    "x": "W0mKUwtYxX_hrNiMyI9cxRnw2ffhSHXK0_cEmOG16jE",
+                    "y": "FRVuMCRgBQ7VNdvveoCvLQLAOYS-cRV2CSa348klIJs",
+                    "alg": "ES256"
+                }
+            ],
+            "lastRetrieved": "2023-06-29T04:36:19Z"
+        }
+    ]
+}
