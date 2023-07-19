@@ -4,8 +4,8 @@
     "issuerInfo": [
         {
             "issuer": {
-                "iss": "https://docket.care/id",
-                "name": "State of Idaho",
+                "iss": "https://docket.care/nj",
+                "name": "State of New Jersey",
                 "website": "https://healthandwelfare.idaho.gov/covid-19-vaccination"
             },
             "keys": [
