@@ -39,6 +39,25 @@
         }
       ],
       "lastRetrieved": "2023-08-11T04:34:03Z"
+    },
+    {
+      "issuer": {
+        "iss": "https://docket.care/id",
+        "name": "State of Idaho",
+        "website": "https://healthandwelfare.idaho.gov/covid-19-vaccination"
+      },
+      "keys": [
+        {
+          "alg": "ES256",
+          "crv": "P-256",
+          "kid": "uKj-yuhweLHtLCPEY5QPrY92GtmG3A4fnG1ExjkxdYk",
+          "kty": "EC",
+          "use": "sig",
+          "x": "xp-zqSjXbwLdyG6fzvENu-EPBZNDmhjk5a1iY-To6rw",
+          "y": "P--ksIm1DBHQYtpWOMFLqsmceB0LW2zEK9LvLPAokO0"
+        }
+      ],
+      "lastRetrieved": "2023-08-11T04:34:03Z"
     }
   ]
 }
