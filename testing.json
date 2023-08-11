@@ -1,25 +1,44 @@
 {
-    "directory": "https://raw.githubusercontent.com/turgid-tributary/throwaway/main/testing.json",
-    "time": "2023-06-29T04:36:19Z",
-    "issuerInfo": [
+  "directory": "https://raw.githubusercontent.com/turgid-tributary/throwaway/main/testing.json",
+  "time": "2023-06-29T04:36:19Z",
+  "issuerInfo": [
+    {
+      "issuer": {
+        "iss": "https://docket.care/nj",
+        "name": "State of New Jersey",
+        "website": "https://covid19.nj.gov/pages/vaxrecords"
+      },
+      "keys": [
         {
-            "issuer": {
-                "iss": "https://docket.care/nj",
-                "name": "State of New Jersey",
-                "website": "https://healthandwelfare.idaho.gov/covid-19-vaccination"
-            },
-            "keys": [
-                {
-      "alg": "ES256",
-      "crv": "P-256",
-      "kid": "6CI7jDa_qwcBRI6ESiqeOr3HHRpcSwJyHysnrzZBabk",
-      "kty": "EC",
-      "use": "sig",
-      "x": "aunjhli7MMlyI50OQ9p_IRgdQMbeH_LKAavgb8TQG-0",
-      "y": "tSrNwYUAeZzwxk4qRqWkw8zLG4GzFy3uVwpS4lzGD0o"
-    }
-            ],
-            "lastRetrieved": "2023-06-29T04:36:19Z"
+          "alg": "ES256",
+          "crv": "P-256",
+          "kid": "6CI7jDa_qwcBRI6ESiqeOr3HHRpcSwJyHysnrzZBabk",
+          "kty": "EC",
+          "use": "sig",
+          "x": "aunjhli7MMlyI50OQ9p_IRgdQMbeH_LKAavgb8TQG-0",
+          "y": "tSrNwYUAeZzwxk4qRqWkw8zLG4GzFy3uVwpS4lzGD0o"
         }
-    ]
+      ],
+      "lastRetrieved": "2023-06-29T04:36:19Z"
+    },
+    {
+      "issuer": {
+        "iss": "https://docket.care/ak",
+        "name": "State of Alaska",
+        "website": "https://health.alaska.gov/dph/Epi/iz/Pages/default.aspx"
+      },
+      "keys": [
+        {
+          "alg": "ES256",
+          "crv": "P-256",
+          "kid": "SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI",
+          "kty": "EC",
+          "use": "sig",
+          "x": "1qO4uiq70-KEwL5j0nUNnM2gTL3fSe_bLGO09Rdmq6o",
+          "y": "lgb-h4yikpkSnmjnbPc_TsbnvkZo2youZMDJ71h5wT4"
+        }
+      ],
+      "lastRetrieved": "2023-08-11T04:34:03Z"
+    }
+  ]
 }
