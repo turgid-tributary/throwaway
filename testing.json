@@ -4,6 +4,25 @@
   "issuerInfo": [
     {
       "issuer": {
+        "iss": "https://docket.care/wy",
+        "name": "State of Wyoming",
+        "website": "http://www.immunizewyoming.com"
+      },
+      "keys": [
+        {
+          "alg": "ES256",
+          "crv": "P-256",
+          "kid": "5MdhwmtJgAnwY1SubKjpInuCxwgGXYPcytd8cIW2Qdg",
+          "kty": "EC",
+          "use": "sig",
+          "x": "5IaUzwSty5Ghr-9Smc5d1Rhjc0JNWgSySWgDOuGlWyA",
+          "y": "K5L7M2BGggGl10RN0yWKPxmUZPIvT7mW0sL_myTd4G8"
+        }
+      ],
+      "lastRetrieved": "2023-08-11T04:34:03Z"
+    },
+    {
+      "issuer": {
         "iss": "https://docket.care/nj",
         "name": "State of New Jersey",
         "website": "https://covid19.nj.gov/pages/vaxrecords"
