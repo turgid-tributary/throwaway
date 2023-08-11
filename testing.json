@@ -4,7 +4,7 @@
     "issuerInfo": [
         {
             "issuer": {
-                "iss": "https://docket.care/nj",
+                "iss": "https://beta.docket.care/nj",
                 "name": "State of New Jersey",
                 "website": "https://healthandwelfare.idaho.gov/covid-19-vaccination"
             },
